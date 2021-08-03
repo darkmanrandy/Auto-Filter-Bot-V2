@@ -1,4 +1,4 @@
-# Auto Searching Bot
+## ```Auto Searching Bot```
 
 ## Installation
 
@@ -29,6 +29,6 @@
 
 ## Credits
 
-[![Tharamaana Admin](https://telegram.me/tharamaanaadmin)
+[Tharamaana Admin](https://telegram.me/tharamaanaadmin)
 
 [Join Our Tharamaana Team](https://telegram.dog/tharamaanateambot)
