@@ -7,7 +7,7 @@
 
 ## Configs
 
-```* TG_BOT_TOKEN  - Get bot token from @BotFather
+* TG_BOT_TOKEN  - Get bot token from @BotFather
 
 * APP_ID        - From my.telegram.org (or @UseTGXBot)
 
@@ -25,7 +25,7 @@
 
 * VID_SEARCH  - Should bot search for video files ( Give 'yes' or 'no' )
 
-* MUSIC_SEARCH  - Should bot search for music files ( Give 'yes' or 'no' )```
+* MUSIC_SEARCH  - Should bot search for music files ( Give 'yes' or 'no' )
 
 # Credits
 
