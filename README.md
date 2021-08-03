@@ -31,4 +31,4 @@
 
 ## [Tharamaana Admin](https://telegram.me/tharamaanaadmin)
 
-## [Join Our Tharamaana Team](https://telegram.dog/tharamaanateambot)
+## [Join Our Team](https://telegram.dog/tharamaanateambot)
