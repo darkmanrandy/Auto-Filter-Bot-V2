@@ -68,7 +68,7 @@ async def about(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "🧐 Join Our Team 😎", url="https://telegram.me/tharamaanateambot")
+                            "🧐 Join Our TEAM 😎", url="https://telegram.me/tharamaanateambot")
                     ]
                 ]
             ),
