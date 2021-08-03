@@ -1,16 +1,8 @@
 class script(object):
 
 
-    START_MSG = """ <b>Hi {}
-
-You can call this as an Auto Filter Bot if you like :D
-
-This is Version 2 of Auto Filter Bot
-
-Bot gives button link to files in connected channels on query !
-
-No need to add filters for your files or movies from now on!
-
+    START_MSG = """ <b>Hi {},
+I'm Auto Searching Bot.
 For more click <i>help</i></b>"""
 
 
@@ -30,7 +22,7 @@ For more click <i>help</i></b>"""
 or
 * <code>/add @channelusername</code> - Links channel to your group.
 
-<i>NOTE : You can get your channel ID from @ChannelidHEXbot </i>
+<i>NOTE : You can get your channel ID from @MissRose_Bot </i>
 
 
 * <code>/del channelid</code>  -  Delinks channel from group
@@ -53,17 +45,17 @@ No need add each filter again!
 Bot will automatically search for your files and give links to that!
 
 
-<b>© @TroJanzHEX</b>"""
+<b>Create By @TharamaanaAdmin/b>"""
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot V2</b>
+    ABOUT_MSG = """🔅<b>My Name : Auto Searching Bot</b>
     
-⭕️<b>Creater :</b> @TroJanzHEX
+🔅<b>Creator :</b> <a href='https://telegram.me/tharamaanaadmin'>Click Here</a>
 
-⭕️<b>Language :</b> <code>Python3</code>
+🔅<b>Tharamaana Team :</b> <a href='https://telegram.me/tharamaanateambot'>Click Here</a>
 
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+🔅<b>TENDKOTTA :</b> <a href='https://telegram.me/tendkotta'>Click Here</a> 
 
-⭕️<b>Tutorial Video :</b> <a href='https://youtu.be/KQVYQAOsFYY'>Video Link</a> 
+🔅<b>Tharamaana Movies :</b> <a href='https://telegram.me/tharamaanamovies'>Click Here</a> 
 
 """
