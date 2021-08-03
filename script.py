@@ -45,7 +45,7 @@ No need add each filter again!
 Bot will automatically search for your files and give links to that!
 
 
-<b>Create By @TharamaanaAdmin/b>"""
+<b>Create By</b> @TharamaanaAdmin"""
 
 
     ABOUT_MSG = """🔅<b>My Name : Auto Searching Bot</b>
