@@ -3,7 +3,7 @@ class script(object):
 
     START_MSG = """ <b>Hi {},
 I'm Auto Searching Bot.
-For more click <i>help</i></b>"""
+For more click 👇 <i>help</i></b>"""
 
 
     HELP_MSG = """<b>How to use the bot??</b>
